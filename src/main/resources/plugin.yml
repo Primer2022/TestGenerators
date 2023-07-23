@@ -1,0 +1,6 @@
+name: TestGenerators
+version: '${project.version}'
+main: ru.primer.testgenerators.TestGenerators
+api-version: '1.16'
+commands:
+  generator:

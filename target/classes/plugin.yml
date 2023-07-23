@@ -1,0 +1,6 @@
+name: TestGenerators
+version: '1.0'
+main: ru.primer.testgenerators.TestGenerators
+api-version: '1.16'
+commands:
+  generator:
